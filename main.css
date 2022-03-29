@@ -168,6 +168,6 @@ button {
 @media (max-width: 397px) {
   .container {
     height: 55%;
-    width: 75%;
+    width: 75%; 
   }
 }
